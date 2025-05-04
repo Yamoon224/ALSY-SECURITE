@@ -1,0 +1,1 @@
+<img src="{{ asset('images/logo.webp') }}" alt="LOGO" style="height: {{ $height ?? '60' }}px; width: {{ $width ?? '60' }}px" />
